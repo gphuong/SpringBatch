@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo2/Demo2.iml" filepath="$PROJECT_DIR$/Demo2/Demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringBatch.iml" filepath="$PROJECT_DIR$/.idea/SpringBatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo1/spring.batch.demo1.iml" filepath="$PROJECT_DIR$/Demo1/spring.batch.demo1.iml" />
+    </modules>
+  </component>
+</project>
